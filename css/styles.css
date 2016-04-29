@@ -133,6 +133,16 @@ a:visited {
   height: 400px;
 }
 
+#richard-hutsko-cover {
+  background-image: url("../assets/img/richard-hutsko-cover.jpg");
+  
+}
+
+#richard-hutsko-card {
+  background-image: url("../assets/img/richard-hutsko.jpg");
+  
+}
+
 #kaileigh-mccrea-cover {
   background-image: url("../assets/img/kaileigh-mccrea-cover.jpg");
 }
